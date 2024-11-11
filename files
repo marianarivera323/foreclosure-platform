@@ -1,0 +1,7 @@
+cd C:\Users\19543\OneDrive\Desktop\foreclosure-platform
+git init
+git remote add origin https://github.com/marianarivera323/foreclosure-platform.git
+git add .
+git commit -m "Initial commit with data files and folder structure"
+git push -u origin main
+
